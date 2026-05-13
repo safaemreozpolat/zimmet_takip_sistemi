@@ -4,7 +4,8 @@ Firma içerisinde bulunan her türlü cihazın kimlere zimmetlendiğini takip et
 Temel amacım: Firmanızda olan demir başları kimlerin kullandığını ne zamandan beri kullandığını ve daha öncesinde kimin kullandığını kaç tane kullanılmayan ürün olduğunu
   en hızlı bir biçimde öğrenmek. En dikkat etmeniz gereken konu girmiş olduğunuz verilerin doğrulu ve eksiksiz girilmesidir. 
 
-
+En yakın zamanda sistemin kurulumu ve entegrasyonu ile alakalı kısa tanıtım videso yotube kanalımda yer alacaktır.
+https://www.youtube.com/@potansiyelinibul  takip edebilirsiniz.
 
 Hangi birimde olursanız olun sistem bir ürünün seri numarası üzerinden o ürünün kime ait olduğu, ne zaman zimmetlendiğini, 
 daha öncesinden kimlere zimmetlendiğini takip etmeniz adına işinizi kolaylaştıracaktır.
@@ -104,5 +105,4 @@ Zimmet etmiş olduğunuz cihaz sistemde sürekli kayıtlı, personel sürekli ka
 
 
 
-En yakın zamanda sistemin kurulumu ve entegrasyonu ile alakalı kısa tanıtım videso yotube kanalımda yer alacaktır.
-https://www.youtube.com/@potansiyelinibul  takip edebilirsiniz.
+

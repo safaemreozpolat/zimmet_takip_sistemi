@@ -17,6 +17,7 @@ hakkında net bir şekilde bilgi sahibi oluyorsunuz.
 
 <img width="1497" height="899" alt="image" src="https://github.com/user-attachments/assets/16e15b19-bfdf-4420-97ab-5f80331615a8" />
 
+#                   CİHAZLAR
 
 <img width="1495" height="896" alt="image" src="https://github.com/user-attachments/assets/54bd1071-2709-4689-b866-d8c8bd5fc9de" />
 

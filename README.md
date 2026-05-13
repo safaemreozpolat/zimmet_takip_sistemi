@@ -14,8 +14,21 @@ Toplam Personel sayınız hızlı bir şekilde bilgilendirecek şekilde dizayn e
 Cihaz eklemesi yapılmış fakat atama işlemi yapılan ve yapılmayan cihaz adedi direk bilgilendiriyor. Bu sayede stoğunuz da kullanılan ve kullanılmayan ürün adediniz 
 hakkında net bir şekilde bilgi sahibi oluyorsunuz. 
 
+
+<img width="1497" height="899" alt="image" src="https://github.com/user-attachments/assets/16e15b19-bfdf-4420-97ab-5f80331615a8" />
+
+
+<img width="1495" height="896" alt="image" src="https://github.com/user-attachments/assets/54bd1071-2709-4689-b866-d8c8bd5fc9de" />
+
+<img width="1494" height="884" alt="image" src="https://github.com/user-attachments/assets/2cd6da18-d824-4e49-8398-3b2555f753cc" />
+
+<img width="1511" height="884" alt="image" src="https://github.com/user-attachments/assets/8a0af03e-bf73-415c-a0cc-98c422785651" />
+
+
 Cihazlar butonuna tıklayarak yeni Cihaz eklemesi yapabilir, daha önceden eklememiş olduğunuz kayıtları listeleye bilir, belirli bir cihazın aramasını yapıp kime ait olduğunu
-  rahatlıkla tespit edebilirsiniz
+  rahatlıkla tespit edebilirsiniz. Atanmayan cihazlar belirtiliyor kolaylıkla inceleme ve tespit yapabilirsiniz. Cihaz eklerken yapılan yanlışlıkları Düzenle butonu ile güncelleme
+  yapabilirsiniz.
+
 
 Personeller butonuna tıklayarak yeni gelen Personel ekleme işlemini, var olan personellerin listesini ve bilirli bir personele ait olan zimmetleri görüntüleyebilirsiniz.
 

@@ -102,3 +102,7 @@ Zimmet etmiş olduğunuz cihaz sistemde sürekli kayıtlı, personel sürekli ka
   
 Çıkan personelleri silme işlemi yaptırmıyor, üzerindeki zimmeti yerine yeni gelen kişiye atama yaparak geçmiş kayıtta ulaşmanız sağlanıyor.
 
+
+
+En yakın zamanda sistemin kurulumu ve entegrasyonu ile alakalı kısa tanıtım videso yotube kanalımda yer alacaktır.
+https://www.youtube.com/@potansiyelinibul  takip edebilirsiniz.
